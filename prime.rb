@@ -1,1 +1,6 @@
-# Add  code here!
+def prime_method(x)
+prime?(x)
+end
+
+
+
